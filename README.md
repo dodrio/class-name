@@ -6,7 +6,7 @@
 [![Travis Build Status](https://img.shields.io/travis/m31271n/class-name.svg)](#)
 [![NPM Downloads](https://img.shields.io/npm/dm/@m31271n/class-name.svg)](#)
 
-> Convert virtual class into pratical class.
+> Convert virtual class into pratical class. Inspired by [react-functional-css-protips](https://github.com/chibicode/react-functional-css-protips).
 
 ## Install
 
